@@ -7,10 +7,10 @@
 
 ## Description
 
-This assignmant required the user to work on exsiting code to optimize and improve the Search Engine Optimization
+This assignment requires the user to switch the application from using routes to using schemas makes the api pages useless.
 
 ## Visuals
-![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
+![Book Search](./Google-Book-SearchIMG.png)
 
 ## Resources
 - [Live Site](https://mortalmx13.github.io/seo-refactor/)
