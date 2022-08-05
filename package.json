@@ -14,5 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "graphql": "^16.5.0",
+    "react-loader-spinner": "^5.1.7-beta.1"
   }
 }
