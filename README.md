@@ -13,8 +13,8 @@ This assignment requires the user to switch the application from using routes to
 ![Book Search](./Google-Book-SearchIMG.png)
 
 ## Resources
-- [Live Site](https://mortalmx13.github.io/seo-refactor/)
+- [Live Site](https://aqueous-coast-66546.herokuapp.com/)
 
-- [Respository](https://github.com/Mortalmx13/seo-refactor)
+- [Respository](https://github.com/Mortalmx13/book-search-engin)
 
 
